@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What are the college timings?",
+        "answer": "The college normally operates during the scheduled academic hours. Please check the latest college timetable for exact timings."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "The library timings are provided by the college library department. Please check the latest library notice for exact timings."
+    },
+    {
+        "question": "How can I pay my college fees?",
+        "answer": "Students can pay their fees through the payment method provided by the college administration."
+    },
+    {
+        "question": "How can I apply for hostel?",
+        "answer": "Students can contact the hostel administration or submit the hostel application through the college's prescribed procedure."
+    },
+    {
+        "question": "Where can I get my exam timetable?",
+        "answer": "The exam timetable is usually published through the college examination department and official student communication channels."
+    },
+    {
+        "question": "What is the attendance requirement?",
+        "answer": "Students must follow the attendance requirements specified in the current college academic regulations."
+    },
+    {
+        "question": "How can I contact the placement department?",
+        "answer": "Students should contact the college placement department through the official placement cell communication channels."
+    }
+]
