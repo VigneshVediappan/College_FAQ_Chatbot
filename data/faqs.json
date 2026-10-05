@@ -1,11 +1,11 @@
 [
     {
         "question": "What are the college timings?",
-        "answer": "The college normally operates during the scheduled academic hours. Please check the latest college timetable for exact timings."
+        "answer": "The college normally operates during scheduled academic hours. Please check the latest college timetable for exact timings."
     },
     {
         "question": "What are the library timings?",
-        "answer": "The library timings are provided by the college library department. Please check the latest library notice for exact timings."
+        "answer": "Library timings are provided by the college library department. Please check the latest library notice for exact timings."
     },
     {
         "question": "How can I pay my college fees?",
@@ -13,11 +13,11 @@
     },
     {
         "question": "How can I apply for hostel?",
-        "answer": "Students can contact the hostel administration or submit the hostel application through the college's prescribed procedure."
+        "answer": "Students can contact the hostel administration or follow the college's prescribed hostel application procedure."
     },
     {
         "question": "Where can I get my exam timetable?",
-        "answer": "The exam timetable is usually published through the college examination department and official student communication channels."
+        "answer": "The exam timetable is usually published by the examination department through official student communication channels."
     },
     {
         "question": "What is the attendance requirement?",
@@ -26,5 +26,57 @@
     {
         "question": "How can I contact the placement department?",
         "answer": "Students should contact the college placement department through the official placement cell communication channels."
+    },
+    {
+        "question": "Where is the college office?",
+        "answer": "The college office is located in the main administrative section of the college campus."
+    },
+    {
+        "question": "How can I apply for leave?",
+        "answer": "Students can apply for leave according to the procedure specified by their department or college administration."
+    },
+    {
+        "question": "How can I get my ID card?",
+        "answer": "Students can contact the college administration or student affairs department to obtain their college ID card."
+    },
+    {
+        "question": "How can I contact my department?",
+        "answer": "Students can contact their respective department office or faculty for academic-related queries."
+    },
+    {
+        "question": "When are the semester exams?",
+        "answer": "Semester examination dates are announced by the college examination department. Please check the latest examination notification."
+    },
+    {
+        "question": "Where can I find college notices?",
+        "answer": "College notices are usually published through official college communication channels and notice boards."
+    },
+    {
+        "question": "How can I apply for a scholarship?",
+        "answer": "Students can contact the scholarship or student welfare department for information about available scholarships and application procedures."
+    },
+    {
+        "question": "Is there a hostel facility?",
+        "answer": "Hostel facilities are provided according to availability and college rules. Contact the hostel administration for details."
+    },
+    {
+        "question": "Is there a canteen in the college?",
+        "answer": "Students can check with the college administration for information about the campus canteen and its operating hours."
+    },
+    {
+        "question": "Is there a transport facility?",
+        "answer": "Students should contact the college transport department for available routes, timings and transportation rules."
+    },
+    {
+        "question": "How can I get a bonafide certificate?",
+        "answer": "Students can apply for a bonafide certificate through the college office or student administration department."
+    },
+    {
+        "question": "How can I get a transfer certificate?",
+        "answer": "Students should contact the college administration office for the procedure and required documents for obtaining a transfer certificate."
+    },
+    {
+        "question": "How can I get my semester results?",
+        "answer": "Semester results are normally published through the official examination department or student portal."
     }
 ]
